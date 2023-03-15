@@ -1,10 +1,10 @@
 [
   {
-    "package": "rrepast",
+    "package": "evoper",
     "oncran": true
   },
   {
-    "package": "evoper",
+    "package": "rrepast",
     "oncran": true
   }
 ]
