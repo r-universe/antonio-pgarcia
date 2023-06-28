@@ -1,15 +1,10 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "evoper"]
 	path = evoper
 	url = https://github.com/antonio-pgarcia/evoper
-	shallow = true
-	registered = true
 [submodule "rrepast"]
 	path = rrepast
 	url = https://github.com/antonio-pgarcia/rrepast
-	shallow = true
-	registered = true
